@@ -61,7 +61,6 @@ I am a 👨‍💻 Software Engineer from India.
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" title="vscode" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/github.png" title="github" alt="github" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/chrome.png" title="chrome" alt="chrome" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/arduino.png" title="arduino" alt="arduino" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/raspberry.png" title="raspberrypi" alt="raspberrypi" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png" title="jupyter" alt="jupyter" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -93,8 +92,8 @@ I am a 👨‍💻 Software Engineer from India.
   </p>
   <p align="center">
     <a href="https://github.com/Abhinav6174/">
-      <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by repo" />
-      <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by commit" />
+      <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by repo" />
+      <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by commit" />
     </a>
   </p>
 </details>
@@ -103,8 +102,8 @@ I am a 👨‍💻 Software Engineer from India.
   <summary><h4>Statistics</h4></summary>
   <p align="center">
     <a href="https://github.com/Abhinav6174/">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Abhinav6174&show_icons=true&theme=gruvbox&hide_border=true" />
-      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav6174&theme=gruvbox&hide_border=true" />
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Abhinav6174&show_icons=true&theme=gruvbox&hide_border=true" />
+      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav6174&theme=gruvbox&hide_border=true" />
      </a>
   </p>
 <br>
