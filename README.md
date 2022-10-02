@@ -24,11 +24,11 @@ You can click the Preview link to take a look at your changes.
   About Me
 </h3>
 
-I am a Software Engineer from India.
+I am a 👨‍💻 Software Engineer from India.
 
-- 👀 I’m interested in Web Development & Cloud Computing.
-- ⭐ Like to learn new things.
-- 🌱 In my free time, I browse through Tech articles.
+- 👀 I’m interested in 🕸 Web Development & ☁ Cloud Computing.
+- 💡 Like to learn new things.
+- 🔭 In my free time, I browse through Tech articles.
 
 
 
