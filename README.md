@@ -64,10 +64,7 @@ I am a 👨‍💻 Software Engineer from India.
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/arduino.png" title="arduino" alt="arduino" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/raspberry.png" title="raspberrypi" alt="raspberrypi" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png" title="jupyter" alt="jupyter" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png" title="anaconda" alt="anaconda" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/physics.png" title="atom" alt="atom" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/matlab.png" title="matlab" alt="matlab" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/></a>&nbsp;&nbsp;
 </div>
 
 ### ✨ Operating Systems
