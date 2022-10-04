@@ -85,7 +85,7 @@ I am a 👨‍💻 Software Engineer from India.
   <summary><h4>Languages</h4></summary>
   <p align="center">
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav6174&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: overall Top Langs " /></a>
+      <img width="93%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav6174&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: overall Top Langs " /></a>
   </p>
   <p align="center">
     <a href="#">
