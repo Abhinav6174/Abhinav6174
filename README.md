@@ -112,7 +112,7 @@ I am a 👨‍💻 Software Engineer from India.
     <br/>
     <h3 align="center"> latest contribution </h3>
     <a href="https://github.com/Abhinav6174/github-readme-activity-graph">
-      <img alt="Abhinav6174 Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Abhinav6174&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+      <img alt="Abhinav6174 Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Abhinav6174&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true"/></a>
     <br/>
   </samp>
 </details>-->
