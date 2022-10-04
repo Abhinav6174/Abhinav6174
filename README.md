@@ -85,12 +85,12 @@ I am a 👨‍💻 Software Engineer from India.
   <summary><h4>Languages</h4></summary>
   <p align="center">
     <a href="#">
-      <img width="93%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav6174&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: overall Top Langs " /></a>
+      <img width="68%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav6174&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: overall Top Langs " /></a>
   </p>
   <p align="center">
     <a href="#">
-      <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by repo" />
-      <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by commit" />
+      <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by repo" />
+      <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by commit" />
     </a>
   </p>
 </details>
@@ -99,8 +99,8 @@ I am a 👨‍💻 Software Engineer from India.
   <summary><h4>Statistics</h4></summary>
   <p align="center">
     <a href="#">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Abhinav6174&show_icons=true&theme=gruvbox&hide_border=true" />
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav6174&theme=gruvbox&hide_border=true" />
+      <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Abhinav6174&show_icons=true&theme=gruvbox&hide_border=true" />
+      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav6174&theme=gruvbox&hide_border=true" />
      </a>
   </p>
 <br>
