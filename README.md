@@ -85,14 +85,14 @@ I am a 👨‍💻 Software Engineer from India.
   <summary><h4>Languages</h4></summary>
   <p align="center">
     <a href="#">
-      <img width="68%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav6174&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: overall Top Langs " /></a>
+      <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav6174&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: overall Top Langs " /></a>
   </p>
-  <p align="center">
+  <!--<p align="center">
     <a href="#">
       <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by repo" />
       <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by commit" />
     </a>
-  </p>
+  </p>-->
 </details>
 
 <details>
