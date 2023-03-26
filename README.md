@@ -38,16 +38,16 @@ I am a 👨‍💻 Software Engineer from India.
 ### ✨ Programming Languages
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/fluency/48/000000/c-programming.png" title="C" alt="C" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png" title="c#" alt="c#" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/python.png" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" title="embeddedc" alt="embeddedc" width="35" height="35"/></a>&nbsp;&nbsp;
 </div>
 
 ### ✨ Web Development
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/fluency/48/000000/html-5.png" title="html5" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/css3.png" title="css3" alt="css3" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhlJ0UfYeEaWxrCFvXdH9ckf0iVLcc5wNTceqY2XKUCStPnNUfF2d-4IgYuzHSZdlnFVAW4QXuRW7gxUUKLM6fbB1gLzs0BuN9TUGuY_j2f0_LT42YyL--D161d9hGF53rgGRLD17ujFZA81pPdmc-A0dqNKToV2rcJ3vdMA1k9KFkieT8EvEh4xoFe=s16000" title="django" alt="django" width="35" height="35"/></a>&nbsp;&nbsp;
+  <!--<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhlJ0UfYeEaWxrCFvXdH9ckf0iVLcc5wNTceqY2XKUCStPnNUfF2d-4IgYuzHSZdlnFVAW4QXuRW7gxUUKLM6fbB1gLzs0BuN9TUGuY_j2f0_LT42YyL--D161d9hGF53rgGRLD17ujFZA81pPdmc-A0dqNKToV2rcJ3vdMA1k9KFkieT8EvEh4xoFe=s16000" title="django" alt="django" width="35" height="35"/></a>&nbsp;&nbsp;-->
 </div>
 
 ### ✨ Database & Cloud
@@ -64,7 +64,6 @@ I am a 👨‍💻 Software Engineer from India.
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/arduino.png" title="arduino" alt="arduino" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/raspberry.png" title="raspberrypi" alt="raspberrypi" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png" title="jupyter" alt="jupyter" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/physics.png" title="atom" alt="atom" width="40" height="40"/></a>&nbsp;&nbsp;
 </div>
 
 ### ✨ Operating Systems
@@ -73,7 +72,7 @@ I am a 👨‍💻 Software Engineer from India.
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/android-os.png" title="android" alt="android" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/mac-client.png" title="apple" alt="apple" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="linux" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="centos" alt="centos" width="40" height="40"/></a>&nbsp;&nbsp;
+  <!--<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="centos" alt="centos" width="40" height="40"/></a>&nbsp;&nbsp;-->
 </div>
 
 
