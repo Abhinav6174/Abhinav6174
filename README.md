@@ -50,30 +50,30 @@ I am a 👨‍💻 Software Engineer from India.
   <a href="#"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhlJ0UfYeEaWxrCFvXdH9ckf0iVLcc5wNTceqY2XKUCStPnNUfF2d-4IgYuzHSZdlnFVAW4QXuRW7gxUUKLM6fbB1gLzs0BuN9TUGuY_j2f0_LT42YyL--D161d9hGF53rgGRLD17ujFZA81pPdmc-A0dqNKToV2rcJ3vdMA1k9KFkieT8EvEh4xoFe=s16000" title="django" alt="django" width="35" height="35"/></a>&nbsp;&nbsp;-->
 </div>
 
-### ✨ Database & Cloud
+<!--### ✨ Database & Cloud
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/fluency/48/000000/database-server.png" title="mysql" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png" title="azure" alt="azure" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png" title="googlecloud" alt="googlecloud" width="40" height="40"/></a>&nbsp;&nbsp;
-</div>
+</div>-->
 
-### ✨ Softwares & Tools
+<!--### ✨ Softwares & Tools
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" title="vscode" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/github.png" title="github" alt="github" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/arduino.png" title="arduino" alt="arduino" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/raspberry.png" title="raspberrypi" alt="raspberrypi" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png" title="jupyter" alt="jupyter" width="40" height="40"/></a>&nbsp;&nbsp;
-</div>
+</div>-->
 
-### ✨ Operating Systems
+<!--### ✨ Operating Systems
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/fluency/48/000000/windows-10.png" title="windows" alt="windows" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/android-os.png" title="android" alt="android" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/mac-client.png" title="apple" alt="apple" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="linux" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;
-  <!--<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="centos" alt="centos" width="40" height="40"/></a>&nbsp;&nbsp;-->
-</div>
+  <!--<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="centos" alt="centos" width="40" height="40"/></a>&nbsp;&nbsp;
+</div>-->
 
 
 
@@ -84,7 +84,7 @@ I am a 👨‍💻 Software Engineer from India.
   <summary><h4>Languages</h4></summary>
   <p align="center">
     <a href="#">
-      <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav6174&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: overall Top Langs " /></a>
+      <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav6174&langs_count=10&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: overall Top Langs " /></a>
   </p>
   <!--<p align="center">
     <a href="#">
