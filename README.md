@@ -80,7 +80,7 @@ I am a 👨‍💻 Software Engineer from India.
       <img alt="Abhinav6174 Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Abhinav6174&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true"/></a>
     <br/>
   </samp>
-</details>-->
+</details>
 
 ---
 ### 🤝 Let's Connect
@@ -98,5 +98,5 @@ I am a 👨‍💻 Software Engineer from India.
   <a href="https://www.instagram.com/abhinav_6174/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" width="40" height="40"/>
   </a>
-</div>
+</div>-->
  
