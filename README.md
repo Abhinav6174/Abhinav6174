@@ -10,13 +10,9 @@ You can click the Preview link to take a look at your changes.
   </a>
 </h1>
 
-
-
 <div id="header" align="center">
   <a href="#"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-PdkU7Z_4MNP6yeiElrzKcEqcTkEtOPOlxGyQn1WBvZccaJ7o4DKU7Q5oxkNCN8mLEN4m3jMh9lYo3vkZrVZl7V6YR8Rz0PT74FDlDgPtgSEYlv7z78Jq9Rb6ahXPaIF91UYdcDvCYql-rDr09mcxfMUtYq2QGeZ40CIQrDXcmT1vhwpq8tC1BDu/s16000/8223.gif" width=100%/></a>
 </div>
-
-
 
 ---
 <h3>
@@ -29,8 +25,6 @@ I am a 👨‍💻 Software Engineer from India.
 - 👀 I’m interested in 🕸 Web Development & ☁ Cloud Computing.
 - 💡 Like to learn new things.
 - 🔭 In my free time, I browse through Tech articles.
-
-
 
 ---
 ### :hammer_and_wrench: Skills
@@ -46,37 +40,9 @@ I am a 👨‍💻 Software Engineer from India.
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/fluency/48/000000/html-5.png" title="html5" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/css3.png" title="css3" alt="css3" width="40" height="40"/></a>&nbsp;&nbsp;
-  <!--<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhlJ0UfYeEaWxrCFvXdH9ckf0iVLcc5wNTceqY2XKUCStPnNUfF2d-4IgYuzHSZdlnFVAW4QXuRW7gxUUKLM6fbB1gLzs0BuN9TUGuY_j2f0_LT42YyL--D161d9hGF53rgGRLD17ujFZA81pPdmc-A0dqNKToV2rcJ3vdMA1k9KFkieT8EvEh4xoFe=s16000" title="django" alt="django" width="35" height="35"/></a>&nbsp;&nbsp;-->
 </div>
 
-<!--### ✨ Database & Cloud
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/fluency/48/000000/database-server.png" title="mysql" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png" title="azure" alt="azure" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png" title="googlecloud" alt="googlecloud" width="40" height="40"/></a>&nbsp;&nbsp;
-</div>-->
-
-<!--### ✨ Softwares & Tools
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" title="vscode" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/github.png" title="github" alt="github" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/arduino.png" title="arduino" alt="arduino" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/raspberry.png" title="raspberrypi" alt="raspberrypi" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png" title="jupyter" alt="jupyter" width="40" height="40"/></a>&nbsp;&nbsp;
-</div>-->
-
-<!--### ✨ Operating Systems
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/fluency/48/000000/windows-10.png" title="windows" alt="windows" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/android-os.png" title="android" alt="android" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/mac-client.png" title="apple" alt="apple" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="linux" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;
-  <!--<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="centos" alt="centos" width="40" height="40"/></a>&nbsp;&nbsp;
-</div>-->
-
-
-
+<!--
 ---
 <h3>GitHub Profile Stats 💻</h3>
 
@@ -91,7 +57,7 @@ I am a 👨‍💻 Software Engineer from India.
       <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by repo" />
       <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by commit" />
     </a>
-  </p>-->
+  </p>
 </details>
 
 <details>
@@ -115,8 +81,6 @@ I am a 👨‍💻 Software Engineer from India.
     <br/>
   </samp>
 </details>-->
-
-
 
 ---
 ### 🤝 Let's Connect
