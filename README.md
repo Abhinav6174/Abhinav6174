@@ -40,6 +40,18 @@ I am a 👨‍💻 Software Engineer from India.
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/fluency/48/000000/html-5.png" title="html5" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/css3.png" title="css3" alt="css3" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/javascript--v1.png" title="Java Script" alt="Js" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/react-native.png" title="React Js" alt="React Js" width="40" height="40"/></a>&nbsp;&nbsp;
+</div>
+
+### ✨ Framework
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/color/48/net-framework.png" title="ASP .NET Core" alt="ASP .NET Core" width="40" height="40"/></a>&nbsp;&nbsp;
+</div>
+
+### ✨ Database
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="Ms SQL" alt="Ms SQL" width="40" height="40"/></a>&nbsp;&nbsp;
 </div>
 
 <!--
