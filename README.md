@@ -42,6 +42,8 @@ I am a 👨‍💻 Software Engineer from India.
   <a href="#"><img src="https://img.icons8.com/fluency/48/000000/css3.png" title="css3" alt="css3" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/javascript--v1.png" title="Java Script" alt="Js" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/react-native.png" title="React Js" alt="React Js" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.icons8.com/fluency/48/typescript--v1.png" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.icons8.com/fluency/48/angularjs.png" title="Angular" alt="Angular" width="40" height="40"/></a>&nbsp;&nbsp;
 </div>
 
 ### ✨ Framework
